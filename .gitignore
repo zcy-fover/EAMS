@@ -2,3 +2,7 @@
 build
 .classpath
 .project
+EAMS.iml
+.idea
+out
+
