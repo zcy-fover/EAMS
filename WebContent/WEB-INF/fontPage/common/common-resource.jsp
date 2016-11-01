@@ -3,6 +3,7 @@
 <link rel="stylesheet" href="/assets/css/font-awesome.min.css" type="text/css"/>
 <link rel="stylesheet" href="assets/css/ace.min.css" type="text/css"/>
 <link rel="stylesheet" href="assets/css/ace-rtl.min.css" type="text/css"/>
+<link rel="stylesheet" href="assets/css/ace-skins.min.css" type="text/css"/>
 <script src="/assets/js/ace-extra.min.js" type="text/javascript"/>
 <script src="/assets/jquery.min.js" type="text/javascript"/>
 

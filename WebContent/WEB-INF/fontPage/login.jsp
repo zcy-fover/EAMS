@@ -40,10 +40,10 @@
                                                 </label>
                                                 <label class="block clearfix">
                                                     <span class="block input-icon input-icon-right">
-                                                        <input id="password" name="passWord" type="password" class="form-control" placeholder="请输入密码"/>
+                                                        <input id="password" name="password" type="password" class="form-control" placeholder="请输入密码"/>
                                                         <i class="icon-lock"></i>
                                                     </span>
-                                            </label>
+                                                </label>
 
                                                 <div class="clearfix">
                                                     <button type="submit" class="width-35 pull-right btn btn-sm btn-primary">
