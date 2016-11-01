@@ -3,7 +3,8 @@
 PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
-	<mappers>
-		<mapper class="com.group.eams.mapper.UserMapper"/>
-	</mappers>
+
+	<typeAliases>
+		<package name="com.group.eams.entity"/>
+	</typeAliases>
 </configuration>
